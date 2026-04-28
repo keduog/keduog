@@ -32,9 +32,9 @@ Multilingual LLM & Generative AI Researcher
 
 ## Selected Links
 - Website: https://keduog.github.io
-- Google Scholar
-- GitHub Projects
-- Hugging Face Models
+- Google Scholar: https://scholar.google.com/citations?user=4RxN4UcAAAAJ&hl=en
+- GitHub Projects: https://github.com/keduog
+- Hugging Face Models: https://huggingface.co/kedhamyas
 
 ---
 
