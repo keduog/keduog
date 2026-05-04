@@ -18,7 +18,7 @@ Multilingual LLM & Generative AI Researcher
 - Best Paper Award – Deep Learning Indaba 2025
 - Research in African NLP and LLM evaluation
 - Selected for advanced AI training programs (Peking University, BAAI)
-- UNU Macau fellowship in policy simulation using LLMs
+- UNU Macau fellowship in policy simulation using LLMs and Agenet Based Modeling
 
 ---
 
@@ -27,6 +27,8 @@ Multilingual LLM & Generative AI Researcher
 - Multi-agent value alignment
 - Cultural and multilingual representation metrics
 - AI policy simulation systems
+- Endangered Language Preservation using LLM and Agent Based Modeling
+- LLM introspection accross languages
 
 ---
 
